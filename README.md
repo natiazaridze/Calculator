@@ -1,3 +1,2 @@
 # Calculator
-calculatorr
-#Simple Calculator in Kotlin
+# Simple Calculator in Kotlin
